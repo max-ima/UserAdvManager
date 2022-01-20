@@ -3,8 +3,7 @@
 $lang['UAM_miscTitle_d'] = '
 - Registered users monitoring<br/>
 - Nickname mandatory for guests comments<br/>
-...
-';
+...';
 $lang['UAM_Admins_Copy_d'] = 'By enabling this option, all administrators of the gallery will receive a copy of <b style=&quot;color: red;&quot;>all emails</b> sent by the plugin. This can be usefull to check if emails are really sent and to keep a copy in case of dispute. For example, during a registration validation or renewal.<br/><br/>Subjects of copied emails are prefixed with <b style=&quot;color: green;&quot;>&quot;[Admins Copy] - &quot;</b>';
 $lang['UAM_infomailTitle_d'] = 'This option allows to automate sending an information email to a user when he changes his password or email address in his profile page.<br/><br/>
 The content of the message sent is composed of a customizable part to introduce a little welcome note and a fixed part indicating the login name, password and email address of the user.';
@@ -14,8 +13,7 @@ By default, the field has a generic text in English but you can change it and us
 <br/><br/>
 The following additional customizations tags are available without using the Extended Description plugin:<br/>
 - <b style=&quot;color: red;&quot;>[username]</b> to automatically insert the name of the destination user of the email.<br/>
-- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>
-';
+- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>';
 $lang['UAM_infotxtTitle_d'] = 'Enter the introductory text that you want to appear in the information email.
 <br/><br/>
 Further customize the content with special inserted tags:<br/>
