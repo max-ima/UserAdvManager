@@ -6,8 +6,7 @@ $lang['UAM_confirmTitle_d'] = '
 - Groups, status or privacy level auto joining<br/>
 - Deadline for confirmation of registration<br/>
 - Reminder email generation<br/>
-...
-';
+...';
 $lang['UAM_confirmmailTitle_d'] = 'This option allows a user to either confirm registration by clicking on a link received in an email sent upon registration or administrators to manually activate the registration.
 <br/><br/>
 In first case, the e-mail is composed of a customizable part to introduce a little welcome note and a fixed part containing the activation link that is generated from a random key that can possibly regenerate through the &quot;Tracking confirmations&quot; tab.
@@ -28,8 +27,7 @@ By default, the field has a generic text in English but you can change it and us
 <br/><br/>
 The following additional customizations tags are available without using the Extended Description plugin:<br/>
 - <b style=&quot;color: red;&quot;>[username]</b> to automatically insert the name of the destination user of the email.<br/>
-- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>
-';
+- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>';
 $lang['UAM_AdminValidationMail_d'] = 'When an administrator or Webmaster of the gallery manually confirm registration pending, a notification email is automatically sent to the user. Enter here the text that appears in this email.
 <br/><br/>
 Further customize the content with special inserted tags:<br/>
@@ -43,8 +41,7 @@ By default, the field has a generic text in English but you can change it and us
 <br/><br/>
 The following additional customizations tags are available without using the Extended Description plugin:<br/>
 - <b style=&quot;color: red;&quot;>[username]</b> to automatically insert the name of the destination user of the email.<br/>
-- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>
-';
+- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>';
 $lang['UAM_confirmtxtTitle_d'] = 'Enter the introductory text that you want to appear in the email confirmation of registration.
 <br/><br/>
 Further customize the content with special inserted tags:<br/>
@@ -102,8 +99,7 @@ By default, the field has a generic text in English but you can change it and us
 <br/><br/>
 The following additional customizations tags are available without using the Extended Description plugin:<br/>
 - <b style=&quot;color: red;&quot;>[username]</b> to automatically insert the name of the destination user of the email.<br/>
-- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>
-';
+- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>';
 $lang['UAM_remailtxt1Title_d'] = 'Enter the introductory text that you want to appear in the reminder email, in addition to the confirmation key regenerated.
 <br/><br/>
 If left blank, the mail reminder will include only the confirmation link. It is therefore strongly advised to take a little explanatory text. (NB: The text pre-filled with the installation of the plugin is provided as an example).
