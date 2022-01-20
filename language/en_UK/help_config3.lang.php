@@ -3,8 +3,7 @@
 $lang['UAM_GT_MainTitle_d'] = '
 - Automatic or manual management of ghost users<br/>
 - E-mailing<br/>
-...
-';
+...';
 $lang['UAM_ghosttrackerTitle_d'] = 'Also called &quot;Ghost Tracker&quot;, when this function is activated, you can manage your visitors depending on the frequency of their visits. 2 operating modes are available:<br/><br/>
 - Manual management : When the time between 2 visits is reached,, the visitor appears in the &quot;Ghost Tracker&quot; table where you will be able to remind visitors via email or delete him.<br/><br/>
 - Automated management : When the period between 2 successive visits is reached, the visitor is automatically deleted or moved into a wait group and/or status. In this second case, an information email can be sent to him.<br/><br/>
@@ -14,8 +13,7 @@ By default, the field has a generic text in English but you can change it and us
 <br/><br/>
 The following additional customizations tags are available without using the Extended Description plugin:<br/>
 - <b style=&quot;color: red;&quot;>[username]</b> to automatically insert the name of the destination user of the email.<br/>
-- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>
-';
+- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>';
 $lang['UAM_gttextTitle_d'] = 'Enter the text you want to appear in the email reminder to prompt the user to return to visit your gallery (NB: The text pre-filled with the installation of the plugin is provided as an example).
 <br/><br/>
 Further customize the content with special inserted tags:<br/>
@@ -47,8 +45,7 @@ By default, the field has a generic text in English but you can change it and us
 <br/><br/>
 The following additional customizations tags are available without using the Extended Description plugin:<br/>
 - <b style=&quot;color: red;&quot;>[username]</b> to automatically insert the name of the destination user of the email.<br/>
-- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>
-';
+- <b style=&quot;color: red;&quot;>[mygallery]</b> to insert the title of your gallery.<br/>';
 $lang['UAM_GTAutomail_Text_d'] = 'Enter the custom text that also explain the reasons for the demotion, to accompany the confirmation link. The custom text is not mandatory but strongly recommended. In fact, your visitors will not appreciate receiving an email containing only a single link without further explanation. ;-)
 <br/><br/>
 Further customize the content with special inserted tags:<br/>
