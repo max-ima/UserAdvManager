@@ -3,8 +3,7 @@
 $lang['UAM_restricTitle_d'] = '
 - Characters exclusion<br/>
 - Email domains exclusion<br/>
-...
-';
+...';
 $lang['UAM_carexcTitle_d'] = 'It may be interesting to prohibit certain characters in usernames (example: refuse login names containing @). This option allows to exclude characters or sequence of characters, events.<br/>
 NB: The option can also exclude whole words.
 <br/><br/>
@@ -14,5 +13,4 @@ Examples :<br/>
 @hotmail.com -> excluding addresses *@hotmail.com<br/>
 @hotmail -> excluding all addresses *@hotmail*<br/><br/>
 <b style=&quot;color: red;&quot;>Warning - This feature works only if emails are mandatory for registrations! Please see Piwigo\'s configuration options.</b>';
-
 ?>
